@@ -1,2 +1,2 @@
-line-bot-sdk==3.7.0https://storage.cloud.google.com/cloud-folder/carousel_test_001.png
+line-bot-sdk==3.7.0
 flask==3.0.0
