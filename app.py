@@ -1458,7 +1458,7 @@ def handle_message(event):
           {
             "type": "text",
             "text": "test test test",
-            "wrap": true,
+            "wrap": True,
             "weight": "bold",
             "size": "xl",
             "action": {
@@ -1474,7 +1474,7 @@ def handle_message(event):
               {
                 "type": "text",
                 "text": "test test test",
-                "wrap": true,
+                "wrap": True,
                 "weight": "bold",
                 "size": "xl",
                 "flex": 0
@@ -1482,7 +1482,7 @@ def handle_message(event):
               {
                 "type": "text",
                 "text": "test test test test ",
-                "wrap": true,
+                "wrap": True,
                 "weight": "bold",
                 "size": "sm",
                 "flex": 0
@@ -1509,7 +1509,7 @@ def handle_message(event):
           {
             "type": "text",
             "text": "test test test",
-            "wrap": true,
+            "wrap": True,
             "weight": "bold",
             "size": "xl",
             "action": {
@@ -1525,7 +1525,7 @@ def handle_message(event):
               {
                 "type": "text",
                 "text": "test test test",
-                "wrap": true,
+                "wrap": True,
                 "weight": "bold",
                 "size": "xl",
                 "flex": 0
@@ -1533,7 +1533,7 @@ def handle_message(event):
               {
                 "type": "text",
                 "text": "test test test test ",
-                "wrap": true,
+                "wrap": True,
                 "weight": "bold",
                 "size": "sm",
                 "flex": 0
@@ -1560,7 +1560,7 @@ def handle_message(event):
           {
             "type": "text",
             "text": "test test test",
-            "wrap": true,
+            "wrap": True,
             "weight": "bold",
             "size": "xl",
             "action": {
@@ -1576,7 +1576,7 @@ def handle_message(event):
               {
                 "type": "text",
                 "text": "test test test",
-                "wrap": true,
+                "wrap": True,
                 "weight": "bold",
                 "size": "xl",
                 "flex": 0
@@ -1584,7 +1584,7 @@ def handle_message(event):
               {
                 "type": "text",
                 "text": "test test test test ",
-                "wrap": true,
+                "wrap": True,
                 "weight": "bold",
                 "size": "sm",
                 "flex": 0
@@ -1611,7 +1611,7 @@ def handle_message(event):
           {
             "type": "text",
             "text": "test test test",
-            "wrap": true,
+            "wrap": True,
             "weight": "bold",
             "size": "xl",
             "action": {
@@ -1627,7 +1627,7 @@ def handle_message(event):
               {
                 "type": "text",
                 "text": "test test test",
-                "wrap": true,
+                "wrap": True,
                 "weight": "bold",
                 "size": "xl",
                 "flex": 0
@@ -1635,7 +1635,7 @@ def handle_message(event):
               {
                 "type": "text",
                 "text": "test test test test ",
-                "wrap": true,
+                "wrap": True,
                 "weight": "bold",
                 "size": "sm",
                 "flex": 0
@@ -1662,7 +1662,7 @@ def handle_message(event):
           {
             "type": "text",
             "text": "test test test",
-            "wrap": true,
+            "wrap": True,
             "weight": "bold",
             "size": "xl",
             "action": {
@@ -1678,7 +1678,7 @@ def handle_message(event):
               {
                 "type": "text",
                 "text": "test test test",
-                "wrap": true,
+                "wrap": True,
                 "weight": "bold",
                 "size": "xl",
                 "flex": 0
@@ -1686,7 +1686,7 @@ def handle_message(event):
               {
                 "type": "text",
                 "text": "test test test test ",
-                "wrap": true,
+                "wrap": True,
                 "weight": "bold",
                 "size": "sm",
                 "flex": 0
@@ -1713,7 +1713,7 @@ def handle_message(event):
           {
             "type": "text",
             "text": "test test test",
-            "wrap": true,
+            "wrap": True,
             "weight": "bold",
             "size": "xl",
             "action": {
@@ -1729,7 +1729,7 @@ def handle_message(event):
               {
                 "type": "text",
                 "text": "test test test",
-                "wrap": true,
+                "wrap": True,
                 "weight": "bold",
                 "size": "xl",
                 "flex": 0
@@ -1737,7 +1737,7 @@ def handle_message(event):
               {
                 "type": "text",
                 "text": "test test test test ",
-                "wrap": true,
+                "wrap": True,
                 "weight": "bold",
                 "size": "sm",
                 "flex": 0
@@ -1764,7 +1764,7 @@ def handle_message(event):
           {
             "type": "text",
             "text": "test test test",
-            "wrap": true,
+            "wrap": True,
             "weight": "bold",
             "size": "xl",
             "action": {
@@ -1780,7 +1780,7 @@ def handle_message(event):
               {
                 "type": "text",
                 "text": "test test test",
-                "wrap": true,
+                "wrap": True,
                 "weight": "bold",
                 "size": "xl",
                 "flex": 0
@@ -1788,7 +1788,7 @@ def handle_message(event):
               {
                 "type": "text",
                 "text": "test test test test ",
-                "wrap": true,
+                "wrap": True,
                 "weight": "bold",
                 "size": "sm",
                 "flex": 0
@@ -1815,7 +1815,7 @@ def handle_message(event):
           {
             "type": "text",
             "text": "test test test",
-            "wrap": true,
+            "wrap": True,
             "weight": "bold",
             "size": "xl",
             "action": {
@@ -1831,7 +1831,7 @@ def handle_message(event):
               {
                 "type": "text",
                 "text": "test test test",
-                "wrap": true,
+                "wrap": True,
                 "weight": "bold",
                 "size": "xl",
                 "flex": 0
@@ -1839,7 +1839,7 @@ def handle_message(event):
               {
                 "type": "text",
                 "text": "test test test test ",
-                "wrap": true,
+                "wrap": True,
                 "weight": "bold",
                 "size": "sm",
                 "flex": 0
@@ -1866,7 +1866,7 @@ def handle_message(event):
           {
             "type": "text",
             "text": "test test test",
-            "wrap": true,
+            "wrap": True,
             "weight": "bold",
             "size": "xl",
             "action": {
@@ -1882,7 +1882,7 @@ def handle_message(event):
               {
                 "type": "text",
                 "text": "test test test",
-                "wrap": true,
+                "wrap": True,
                 "weight": "bold",
                 "size": "xl",
                 "flex": 0
@@ -1890,7 +1890,7 @@ def handle_message(event):
               {
                 "type": "text",
                 "text": "test test test test ",
-                "wrap": true,
+                "wrap": True,
                 "weight": "bold",
                 "size": "sm",
                 "flex": 0
@@ -1917,7 +1917,7 @@ def handle_message(event):
           {
             "type": "text",
             "text": "test test test",
-            "wrap": true,
+            "wrap": True,
             "weight": "bold",
             "size": "xl",
             "action": {
@@ -1933,7 +1933,7 @@ def handle_message(event):
               {
                 "type": "text",
                 "text": "test test test",
-                "wrap": true,
+                "wrap": True,
                 "weight": "bold",
                 "size": "xl",
                 "flex": 0
@@ -1941,7 +1941,7 @@ def handle_message(event):
               {
                 "type": "text",
                 "text": "test test test test ",
-                "wrap": true,
+                "wrap": True,
                 "weight": "bold",
                 "size": "sm",
                 "flex": 0
