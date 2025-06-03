@@ -1437,6 +1437,530 @@ def handle_message(event):
                     messages=[FlexMessage(alt_text='詳細說明', contents=FlexContainer.from_json(line_flex_str))]
                 )
             )
+        elif text == 'f03':
+            line_flex_json = {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "15:22",
+        "aspectMode": "fit",
+        "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/product/p%20(1).png"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "test test test",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://www.drhughes.com.tw/products/%E6%9F%91%E8%90%83%E4%BA%BA%E5%8F%83%E8%A4%87%E6%96%B9%E8%86%A0%E5%9B%8A-30%E7%B2%92%E7%BD%90%E8%A3%9D"
+            }
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "test test test",
+                "wrap": true,
+                "weight": "bold",
+                "size": "xl",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "test test test test ",
+                "wrap": true,
+                "weight": "bold",
+                "size": "sm",
+                "flex": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "15:22",
+        "aspectMode": "fit",
+        "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/product/p%20(2).png"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "test test test",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://www.drhughes.com.tw/products/%E6%9F%91%E8%90%83%E4%BA%BA%E5%8F%83%E8%A4%87%E6%96%B9%E8%86%A0%E5%9B%8A-30%E7%B2%92%E7%BD%90%E8%A3%9D"
+            }
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "test test test",
+                "wrap": true,
+                "weight": "bold",
+                "size": "xl",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "test test test test ",
+                "wrap": true,
+                "weight": "bold",
+                "size": "sm",
+                "flex": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "15:22",
+        "aspectMode": "fit",
+        "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/product/p%20(3).png"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "test test test",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://www.drhughes.com.tw/products/%E6%9F%91%E8%90%83%E4%BA%BA%E5%8F%83%E8%A4%87%E6%96%B9%E8%86%A0%E5%9B%8A-30%E7%B2%92%E7%BD%90%E8%A3%9D"
+            }
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "test test test",
+                "wrap": true,
+                "weight": "bold",
+                "size": "xl",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "test test test test ",
+                "wrap": true,
+                "weight": "bold",
+                "size": "sm",
+                "flex": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "15:22",
+        "aspectMode": "fit",
+        "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/product/p%20(4).png"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "test test test",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://www.drhughes.com.tw/products/%E6%9F%91%E8%90%83%E4%BA%BA%E5%8F%83%E8%A4%87%E6%96%B9%E8%86%A0%E5%9B%8A-30%E7%B2%92%E7%BD%90%E8%A3%9D"
+            }
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "test test test",
+                "wrap": true,
+                "weight": "bold",
+                "size": "xl",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "test test test test ",
+                "wrap": true,
+                "weight": "bold",
+                "size": "sm",
+                "flex": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "15:22",
+        "aspectMode": "fit",
+        "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/product/p%20(5).png"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "test test test",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://www.drhughes.com.tw/products/%E6%9F%91%E8%90%83%E4%BA%BA%E5%8F%83%E8%A4%87%E6%96%B9%E8%86%A0%E5%9B%8A-30%E7%B2%92%E7%BD%90%E8%A3%9D"
+            }
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "test test test",
+                "wrap": true,
+                "weight": "bold",
+                "size": "xl",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "test test test test ",
+                "wrap": true,
+                "weight": "bold",
+                "size": "sm",
+                "flex": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "15:22",
+        "aspectMode": "fit",
+        "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/product/p%20(6).png"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "test test test",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://www.drhughes.com.tw/products/%E6%9F%91%E8%90%83%E4%BA%BA%E5%8F%83%E8%A4%87%E6%96%B9%E8%86%A0%E5%9B%8A-30%E7%B2%92%E7%BD%90%E8%A3%9D"
+            }
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "test test test",
+                "wrap": true,
+                "weight": "bold",
+                "size": "xl",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "test test test test ",
+                "wrap": true,
+                "weight": "bold",
+                "size": "sm",
+                "flex": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "15:22",
+        "aspectMode": "fit",
+        "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/product/p%20(7).png"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "test test test",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://www.drhughes.com.tw/products/%E6%9F%91%E8%90%83%E4%BA%BA%E5%8F%83%E8%A4%87%E6%96%B9%E8%86%A0%E5%9B%8A-30%E7%B2%92%E7%BD%90%E8%A3%9D"
+            }
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "test test test",
+                "wrap": true,
+                "weight": "bold",
+                "size": "xl",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "test test test test ",
+                "wrap": true,
+                "weight": "bold",
+                "size": "sm",
+                "flex": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "15:22",
+        "aspectMode": "fit",
+        "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/product/p%20(8).png"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "test test test",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://www.drhughes.com.tw/products/%E6%9F%91%E8%90%83%E4%BA%BA%E5%8F%83%E8%A4%87%E6%96%B9%E8%86%A0%E5%9B%8A-30%E7%B2%92%E7%BD%90%E8%A3%9D"
+            }
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "test test test",
+                "wrap": true,
+                "weight": "bold",
+                "size": "xl",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "test test test test ",
+                "wrap": true,
+                "weight": "bold",
+                "size": "sm",
+                "flex": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "15:22",
+        "aspectMode": "fit",
+        "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/product/p%20(9).png"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "test test test",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://www.drhughes.com.tw/products/%E6%9F%91%E8%90%83%E4%BA%BA%E5%8F%83%E8%A4%87%E6%96%B9%E8%86%A0%E5%9B%8A-30%E7%B2%92%E7%BD%90%E8%A3%9D"
+            }
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "test test test",
+                "wrap": true,
+                "weight": "bold",
+                "size": "xl",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "test test test test ",
+                "wrap": true,
+                "weight": "bold",
+                "size": "sm",
+                "flex": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "15:22",
+        "aspectMode": "fit",
+        "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/product/p%20(10).png"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "test test test",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://www.drhughes.com.tw/products/%E6%9F%91%E8%90%83%E4%BA%BA%E5%8F%83%E8%A4%87%E6%96%B9%E8%86%A0%E5%9B%8A-30%E7%B2%92%E7%BD%90%E8%A3%9D"
+            }
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "test test test",
+                "wrap": true,
+                "weight": "bold",
+                "size": "xl",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "test test test test ",
+                "wrap": true,
+                "weight": "bold",
+                "size": "sm",
+                "flex": 0
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
+            line_flex_str = json.dumps(line_flex_json)
+            line_bot_api.reply_message(
+                ReplyMessageRequest(
+                    reply_token=event.reply_token,
+                    messages=[FlexMessage(alt_text='詳細說明', contents=FlexContainer.from_json(line_flex_str))]
+                )
+            )
+            
 
         else:
             line_bot_api.reply_message(
