@@ -190,29 +190,7 @@ def handle_message(event):
               {
                 "type": "box",
                 "layout": "vertical",
-                "contents": [
-                  {
-                    "type": "text",
-                    "text": "標題文字",
-                    "size": "xl",
-                    "color": "#ffffff",
-                    "weight": "bold"
-                  }
-                ]
-              },
-              {
-                "type": "box",
-                "layout": "baseline",
-                "contents": [
-                  {
-                    "type": "text",
-                    "text": "小標題文字",
-                    "color": "#ebebeb",
-                    "size": "sm",
-                    "flex": 0
-                  }
-                ],
-                "spacing": "lg"
+                "contents": []
               },
               {
                 "type": "box",
@@ -230,14 +208,14 @@ def handle_message(event):
                       },
                       {
                         "type": "text",
-                        "text": "了解更多",
+                        "text": "分享給朋友",
                         "color": "#ffffff",
                         "flex": 0,
                         "offsetTop": "-2px",
                         "action": {
                           "type": "uri",
                           "label": "action",
-                          "uri": "https://www.drhughes.com.tw/"
+                          "uri": "https://liff.line.me/2007523880-3derL8P1"
                         }
                       },
                       {
