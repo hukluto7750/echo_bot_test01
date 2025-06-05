@@ -166,9 +166,7 @@ def handle_message(event):
             )
 
         elif text == 'f01':
-            line_flex_json = {
-  "type": "carousel",
-  "contents": {
+            line_flex_json={
   "type": "carousel",
   "contents": [
     {
@@ -539,7 +537,6 @@ def handle_message(event):
       }
     }
   ]
-}
 }
             line_flex_str = json.dumps(line_flex_json)
             line_bot_api.reply_message(
