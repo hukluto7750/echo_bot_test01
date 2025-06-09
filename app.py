@@ -164,7 +164,7 @@ def handle_message(event):
                     messages=[FlexMessage(alt_text="hello", contents=bubble)]
                 )
             )
-        elif text == 'f00':
+        elif text == 'f01':
             line_flex_json = {
   "type": "carousel",
   "contents": [
@@ -1118,7 +1118,7 @@ def handle_message(event):
                     messages=[FlexMessage(alt_text='詳細說明', contents=FlexContainer.from_json(line_flex_str))]
                 )
             )
-        elif text == 'f01':
+        elif text == 'f02':
             line_flex_json = {
   "type": "carousel",
   "contents": [
@@ -2074,7 +2074,7 @@ def handle_message(event):
                     messages=[FlexMessage(alt_text='詳細說明', contents=FlexContainer.from_json(line_flex_str))]
                 )
             )
-        elif text == 'f02':
+        elif text == 'f03':
             line_flex_json = {
   "type": "carousel",
   "contents": [
@@ -2267,7 +2267,7 @@ def handle_message(event):
                     messages=[FlexMessage(alt_text='詳細說明', contents=FlexContainer.from_json(line_flex_str))]
                 )
             )
-        elif text == 'f03':
+        elif text == 'f04':
             line_flex_json = {
   "type": "carousel",
   "contents": [
@@ -2790,7 +2790,7 @@ def handle_message(event):
                     messages=[FlexMessage(alt_text='詳細說明', contents=FlexContainer.from_json(line_flex_str))]
                 )
             )
-        elif text == 'f04':
+        elif text == 'f05':
             line_flex_json = {
   "type": "carousel",
   "contents": [
@@ -3663,7 +3663,7 @@ def handle_message(event):
                     messages=[FlexMessage(alt_text='詳細說明', contents=FlexContainer.from_json(line_flex_str))]
                 )
             )
-        elif text == 'f05':
+        elif text == 'f06':
             line_flex_json = {
   "type": "carousel",
   "contents": [
