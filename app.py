@@ -957,7 +957,7 @@ def handle_message(event):
         "contents": [
           {
             "type": "image",
-            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/jimeng_latin_rock/jpg/jimeng_latin_rock%20(16).jpg",
+            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/jimeng_latin_rock/png/jimeng_latin_rock%20(16).png",
             "size": "full",
             "aspectMode": "cover",
             "aspectRatio": "2:3",
@@ -1792,7 +1792,7 @@ def handle_message(event):
         "contents": [
           {
             "type": "image",
-            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/jimeng_bookroom/jpg/jimeng_bookroom%20(43).jpg",
+            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/jimeng_bookroom/png/jimeng_bookroom%20(43).png",
             "size": "full",
             "aspectMode": "cover",
             "aspectRatio": "2:3",
