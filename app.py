@@ -957,7 +957,7 @@ def handle_message(event):
         "contents": [
           {
             "type": "image",
-            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/jimeng_latin_rock/png/jimeng_latin_rock%20(16).png",
+            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/jimeng_latin_rock/jpg/jimeng_latin_rock%20(16).jpg",
             "size": "full",
             "aspectMode": "cover",
             "aspectRatio": "2:3",
@@ -1471,7 +1471,7 @@ def handle_message(event):
         "contents": [
           {
             "type": "image",
-            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/jimeng_bookroom/png/jimeng_bookroom%20(35).png",
+            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/jimeng_bookroom/png/jimeng_bookroom%20(39).png",
             "size": "full",
             "aspectMode": "cover",
             "aspectRatio": "2:3",
@@ -1572,7 +1572,7 @@ def handle_message(event):
         "contents": [
           {
             "type": "image",
-            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/jimeng_bookroom/png/jimeng_bookroom%20(35).png",
+            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/jimeng_bookroom/png/jimeng_bookroom%20(40).png",
             "size": "full",
             "aspectMode": "cover",
             "aspectRatio": "2:3",
@@ -1673,7 +1673,7 @@ def handle_message(event):
         "contents": [
           {
             "type": "image",
-            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/jimeng_bookroom/png/jimeng_bookroom%20(35).png",
+            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/jimeng_bookroom/png/jimeng_bookroom%20(41).png",
             "size": "full",
             "aspectMode": "cover",
             "aspectRatio": "2:3",
@@ -1774,7 +1774,25 @@ def handle_message(event):
         "contents": [
           {
             "type": "image",
-            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/jimeng_bookroom/png/jimeng_bookroom%20(43).png",
+            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/jimeng_bookroom/png/jimeng_bookroom%20(42).png",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "2:3",
+            "gravity": "top"
+          }
+        ],
+        "paddingAll": "0px"
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/jimeng_bookroom/jpg/jimeng_bookroom%20(43).jpg",
             "size": "full",
             "aspectMode": "cover",
             "aspectRatio": "2:3",
