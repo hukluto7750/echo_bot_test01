@@ -40,6 +40,21 @@ line_handler = WebhookHandler(os.getenv('CHANNEL_SECRET'))
 def t01():
     return render_template('t01.html')
 
+@app.route('/f01')
+def f01():
+    return render_template('f01.html')
+
+@app.route('/f02')
+def f02():
+    return render_template('f02.html')
+
+@app.route('/f03')
+def f03():
+    return render_template('f03.html')
+
+@app.route('/f04')
+def f04():
+    return render_template('f04.html')
 
 @app.route("/callback", methods=['POST'])
 def callback():
