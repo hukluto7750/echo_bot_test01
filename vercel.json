@@ -29,23 +29,23 @@
           "dest": "app.py"
         },
         {
-          "src":  "/f01.html",    
+          "src":  "f01.html",    
           "dest": "f01.html"
         },
         {
-          "src":  "/f02.html",    
+          "src":  "f02.html",    
           "dest": "f02.html"
         },
         {
-          "src":  "/f03.html",    
+          "src":  "f03.html",    
           "dest": "f03.html"
         },
         {
-          "src":  "/f04.html",    
+          "src":  "f04.html",    
           "dest": "f04.html"
         },
         {
-          "src":  "/temp.html",    
+          "src":  "temp.html",    
           "dest": "temp.html"
         }
     ]
