@@ -36,9 +36,9 @@ configuration = Configuration(access_token=os.getenv('CHANNEL_ACCESS_TOKEN'))
 line_handler = WebhookHandler(os.getenv('CHANNEL_SECRET'))
 
 
-@app.route('/t01')
+@app.route('/temp_test')
 def t01():
-    return render_template('t01.html')
+    return render_template('temp_test.html')
 
 @app.route('/f01')
 def f01():
@@ -3444,9 +3444,10 @@ def handle_message(event):
                 )
             )
         else:
-            line_bot_api.reply_message(
-                ReplyMessageRequest(
-                    reply_token=event.reply_token,
-                    messages=[TextMessage(text=event.message.text)]
-                )
-            )
+            ''
+            # line_bot_api.reply_message(
+            #     ReplyMessageRequest(
+            #         reply_token=event.reply_token,
+            #         messages=[TextMessage(text=event.message.text)]
+            #     )
+            # )
