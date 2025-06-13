@@ -1,3 +1,20 @@
+// {
+//     "version": 2,
+//     "builds": [
+//         {
+//             "src": "app.py",
+//             "use": "@vercel/python"
+//         }
+//     ],
+//     "routes": [
+//         {
+//           "src": "/(.*)", 
+//           "dest": "app.py"
+//         }
+//     ]
+// }
+
+
 {
     "version": 2,
     "builds": [
@@ -8,8 +25,28 @@
     ],
     "routes": [
         {
-          "src": "/(.*)", 
+          "src": "/", 
           "dest": "app.py"
+        },
+        {
+          "src":  "/f01.html",    
+          "dest": "f01.html"
+        },
+        {
+          "src":  "/f02.html",    
+          "dest": "f02.html"
+        },
+        {
+          "src":  "/f03.html",    
+          "dest": "f03.html"
+        },
+        {
+          "src":  "/f04.html",    
+          "dest": "f04.html"
+        },
+        {
+          "src":  "/temp.html",    
+          "dest": "temp.html"
         }
     ]
 }
