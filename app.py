@@ -3553,19 +3553,6 @@ def handle_message(event):
                 "layout": "vertical",
                 "contents": [
                   {
-                    "type": "text",
-                    "text": "休斯生醫 輕凍飲新品上市",
-                    "size": "xl",
-                    "color": "#ffffff",
-                    "weight": "bold"
-                  }
-                ]
-              },
-              {
-                "type": "box",
-                "layout": "vertical",
-                "contents": [
-                  {
                     "type": "filler"
                   },
                   {
@@ -3635,19 +3622,6 @@ def handle_message(event):
             "type": "box",
             "layout": "vertical",
             "contents": [
-              {
-                "type": "box",
-                "layout": "vertical",
-                "contents": [
-                  {
-                    "type": "text",
-                    "text": "6種狀況，你中了哪幾種？ ",
-                    "size": "xl",
-                    "color": "#ffffff",
-                    "weight": "bold"
-                  }
-                ]
-              },
               {
                 "type": "box",
                 "layout": "vertical",
@@ -3727,19 +3701,6 @@ def handle_message(event):
                 "layout": "vertical",
                 "contents": [
                   {
-                    "type": "text",
-                    "text": "千萬不要輕易冒險！",
-                    "size": "xl",
-                    "color": "#ffffff",
-                    "weight": "bold"
-                  }
-                ]
-              },
-              {
-                "type": "box",
-                "layout": "vertical",
-                "contents": [
-                  {
                     "type": "filler"
                   },
                   {
@@ -3809,19 +3770,6 @@ def handle_message(event):
             "type": "box",
             "layout": "vertical",
             "contents": [
-              {
-                "type": "box",
-                "layout": "vertical",
-                "contents": [
-                  {
-                    "type": "text",
-                    "text": "很多人都吃錯？黃金時段大解密",
-                    "size": "xl",
-                    "color": "#ffffff",
-                    "weight": "bold"
-                  }
-                ]
-              },
               {
                 "type": "box",
                 "layout": "vertical",
@@ -3901,19 +3849,6 @@ def handle_message(event):
                 "layout": "vertical",
                 "contents": [
                   {
-                    "type": "text",
-                    "text": "限時3分鐘！極限挑戰",
-                    "size": "xl",
-                    "color": "#ffffff",
-                    "weight": "bold"
-                  }
-                ]
-              },
-              {
-                "type": "box",
-                "layout": "vertical",
-                "contents": [
-                  {
                     "type": "filler"
                   },
                   {
@@ -3983,19 +3918,6 @@ def handle_message(event):
             "type": "box",
             "layout": "vertical",
             "contents": [
-              {
-                "type": "box",
-                "layout": "vertical",
-                "contents": [
-                  {
-                    "type": "text",
-                    "text": "一上市就熱銷的凍飲？！",
-                    "size": "xl",
-                    "color": "#ffffff",
-                    "weight": "bold"
-                  }
-                ]
-              },
               {
                 "type": "box",
                 "layout": "vertical",
@@ -4075,19 +3997,6 @@ def handle_message(event):
                 "layout": "vertical",
                 "contents": [
                   {
-                    "type": "text",
-                    "text": "保健食品技術的黑科技？！",
-                    "size": "xl",
-                    "color": "#ffffff",
-                    "weight": "bold"
-                  }
-                ]
-              },
-              {
-                "type": "box",
-                "layout": "vertical",
-                "contents": [
-                  {
                     "type": "filler"
                   },
                   {
@@ -4157,19 +4066,6 @@ def handle_message(event):
             "type": "box",
             "layout": "vertical",
             "contents": [
-              {
-                "type": "box",
-                "layout": "vertical",
-                "contents": [
-                  {
-                    "type": "text",
-                    "text": "不認識更年期是不行的",
-                    "size": "xl",
-                    "color": "#ffffff",
-                    "weight": "bold"
-                  }
-                ]
-              },
               {
                 "type": "box",
                 "layout": "vertical",
