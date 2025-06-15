@@ -3584,7 +3584,7 @@ def handle_message(event):
                         "action": {
                           "type": "uri",
                           "label": "action",
-                          "uri": "https://www.youtube.com/shorts/t2p1oNplqS8"
+                          "uri": "https://24h.pchome.com.tw/prod/DBAUKG-A900IF3MX"
                         }
                       },
                       {
@@ -3671,7 +3671,7 @@ def handle_message(event):
                         "action": {
                           "type": "uri",
                           "label": "action",
-                          "uri": "https://www.youtube.com/shorts/n3vJ4Lff1s8"
+                          "uri": "https://24h.pchome.com.tw/prod/DBAX76-A900I4OBU"
                         }
                       },
                       {
@@ -3758,7 +3758,7 @@ def handle_message(event):
                         "action": {
                           "type": "uri",
                           "label": "action",
-                          "uri": "https://www.youtube.com/shorts/RGZbR9j56XU"
+                          "uri": "https://24h.pchome.com.tw/prod/DBAUKG-A900IQXZB"
                         }
                       },
                       {
@@ -3845,7 +3845,7 @@ def handle_message(event):
                         "action": {
                           "type": "uri",
                           "label": "action",
-                          "uri": "https://www.youtube.com/shorts/uT1JqtAOztE"
+                          "uri": "https://24h.pchome.com.tw/prod/DBAUKG-A900IQXY4"
                         }
                       },
                       {
@@ -3932,7 +3932,7 @@ def handle_message(event):
                         "action": {
                           "type": "uri",
                           "label": "action",
-                          "uri": "https://www.youtube.com/shorts/219tKDfU9fM"
+                          "uri": "https://24h.pchome.com.tw/prod/DBAUKG-A900IF3PF"
                         }
                       },
                       {
@@ -4019,7 +4019,7 @@ def handle_message(event):
                         "action": {
                           "type": "uri",
                           "label": "action",
-                          "uri": "https://www.youtube.com/shorts/3vqf7TXkoQI"
+                          "uri": "https://24h.pchome.com.tw/prod/DBAX76-A900I4U29"
                         }
                       },
                       {
@@ -4106,7 +4106,7 @@ def handle_message(event):
                         "action": {
                           "type": "uri",
                           "label": "action",
-                          "uri": "https://www.youtube.com/shorts/wDYVTSNmqEE"
+                          "uri": "https://24h.pchome.com.tw/prod/DBAX76-A900I4U42"
                         }
                       },
                       {
@@ -4193,7 +4193,7 @@ def handle_message(event):
                         "action": {
                           "type": "uri",
                           "label": "action",
-                          "uri": "https://www.youtube.com/shorts/1WG7140Koh0"
+                          "uri": "https://24h.pchome.com.tw/prod/DBAX76-A900IF3PI"
                         }
                       },
                       {
