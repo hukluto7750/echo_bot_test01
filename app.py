@@ -1831,7 +1831,7 @@ def handle_message(event):
                     messages=[FlexMessage(alt_text='詳細說明', contents=FlexContainer.from_json(line_flex_str))]
                 )
             )
-        elif text == 'f03':
+        elif text == '4.10':
             line_flex_json = {
   "type": "carousel",
   "contents": [
@@ -2637,7 +2637,7 @@ def handle_message(event):
                     messages=[FlexMessage(alt_text='詳細說明', contents=FlexContainer.from_json(line_flex_str))]
                 )
             )
-        elif text == 'f04':
+        elif text == '4.10':
             line_flex_json = {
   "type": "carousel",
   "contents": [
