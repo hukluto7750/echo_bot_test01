@@ -78,7 +78,7 @@ def handle_message(event):
     text = event.message.text
     with ApiClient(configuration) as api_client:
         line_bot_api = MessagingApi(api_client)
-        if text == 'f01':
+        if text == '4.5':
             line_flex_json = {
   "type": "carousel",
   "contents": [
