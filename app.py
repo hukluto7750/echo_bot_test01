@@ -57,7 +57,7 @@ def f04():
     return render_template('f04.html')
 
 @app.route('/f05')
-def f04():
+def f05():
     return render_template('f05.html')
 
 @app.route("/callback", methods=['POST'])
