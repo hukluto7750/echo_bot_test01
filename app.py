@@ -132,7 +132,7 @@ def handle_message(event):
                         "action": {
                           "type": "uri",
                           "label": "action",
-                          "uri": "https://liff.line.me/2007523880-3derL8P1"
+                          "uri": "https://liff.line.me/2001023898-m8nea4Za"
                         }
                       },
                       {
@@ -1050,7 +1050,7 @@ def handle_message(event):
                         "action": {
                           "type": "uri",
                           "label": "action",
-                          "uri": "https://liff.line.me/2007523880-zq4NyMgK"
+                          "uri": "https://liff.line.me/2001023898-j78PNXAN"
                         }
                       },
                       {
@@ -1885,7 +1885,7 @@ def handle_message(event):
                         "action": {
                           "type": "uri",
                           "label": "action",
-                          "uri": "https://liff.line.me/2007523880-1ZNmgz8P"
+                          "uri": "https://liff.line.me/2001023898-GqPl8Dn8"
                         }
                       },
                       {
@@ -2691,7 +2691,7 @@ def handle_message(event):
                         "action": {
                           "type": "uri",
                           "label": "action",
-                          "uri": "https://liff.line.me/2007523880-WPO09QAE"
+                          "uri": "https://liff.line.me/2001023898-1JGVdgKd"
                         }
                       },
                       {
