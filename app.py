@@ -880,7 +880,7 @@ def handle_message(event):
         "contents": [
           {
             "type": "image",
-            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/snow_white/png/snow_white_9.png",
+            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/snow_white/png/snow_white_09.png",
             "size": "full",
             "aspectMode": "cover",
             "aspectRatio": "2:3",
