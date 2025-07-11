@@ -3463,7 +3463,7 @@ def handle_message(event):
             "aspectMode": "cover",
             "aspectRatio": "2:3",
             "gravity": "top",
-            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/p24h/jpg/p24h_01.jpg"
+            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/p24h/jpg/p24h_01.png"
           },
           {
             "type": "box",
@@ -3538,7 +3538,7 @@ def handle_message(event):
         "contents": [
           {
             "type": "image",
-            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/p24h/jpg/p24h_02.jpg",
+            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/p24h/jpg/p24h_02.png",
             "size": "full",
             "aspectMode": "cover",
             "aspectRatio": "2:3",
@@ -3612,7 +3612,7 @@ def handle_message(event):
         "contents": [
           {
             "type": "image",
-            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/p24h/jpg/p24h_03.jpg",
+            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/p24h/jpg/p24h_03.png",
             "size": "full",
             "aspectMode": "cover",
             "aspectRatio": "2:3",
@@ -3686,7 +3686,7 @@ def handle_message(event):
         "contents": [
           {
             "type": "image",
-            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/p24h/jpg/p24h_04.jpg",
+            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/p24h/jpg/p24h_04.png",
             "size": "full",
             "aspectMode": "cover",
             "aspectRatio": "2:3",
@@ -3760,7 +3760,7 @@ def handle_message(event):
         "contents": [
           {
             "type": "image",
-            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/p24h/jpg/p24h_05.jpg",
+            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/p24h/jpg/p24h_05.png",
             "size": "full",
             "aspectMode": "cover",
             "aspectRatio": "2:3",
@@ -3834,7 +3834,7 @@ def handle_message(event):
         "contents": [
           {
             "type": "image",
-            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/p24h/jpg/p24h_06.jpg",
+            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/p24h/jpg/p24h_06.png",
             "size": "full",
             "aspectMode": "cover",
             "aspectRatio": "2:3",
@@ -3908,7 +3908,7 @@ def handle_message(event):
         "contents": [
           {
             "type": "image",
-            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/p24h/jpg/p24h_07.jpg",
+            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/p24h/jpg/p24h_07.png",
             "size": "full",
             "aspectMode": "cover",
             "aspectRatio": "2:3",
@@ -3982,7 +3982,7 @@ def handle_message(event):
         "contents": [
           {
             "type": "image",
-            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/p24h/jpg/p24h_08.jpg",
+            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/p24h/jpg/p24h_08.png",
             "size": "full",
             "aspectMode": "cover",
             "aspectRatio": "2:3",
@@ -4056,7 +4056,7 @@ def handle_message(event):
         "contents": [
           {
             "type": "image",
-            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/p24h/jpg/p24h_09.jpg",
+            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/p24h/jpg/p24h_09.png",
             "size": "full",
             "aspectMode": "cover",
             "aspectRatio": "2:3",
@@ -4130,7 +4130,7 @@ def handle_message(event):
         "contents": [
           {
             "type": "image",
-            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/p24h/jpg/p24h_10.jpg",
+            "url": "https://raw.githubusercontent.com/hukluto7750/echo_bot_test01/refs/heads/main/imgs/p24h/jpg/p24h_10.png",
             "size": "full",
             "aspectMode": "cover",
             "aspectRatio": "2:3",
